@@ -1,0 +1,5 @@
+Website for a yoga studio
+
+Create a website for a yoga studio. The main purpose of the website is to allow users to book classes online.
+
+The website should have home page, contact page, booking online page, gallery page.
